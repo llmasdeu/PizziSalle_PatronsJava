@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MSII_Practica_lluismasdeu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MSII_Practica_lluismasdeu_jar</output-path>
+    <root id="archive" name="MSII_Practica_lluismasdeu.jar">
+      <element id="module-output" name="MSII_Practica_lluismasdeu" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
